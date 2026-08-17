@@ -1,8 +1,9 @@
 # Loan-Aprroval
 Loan Approval Prediction | Machine Learning Project
 
-Developed an end-to-end Loan Approval Prediction System using Machine Learning and Google Colab.
-
+Developed an end-to-end Loan Approval Prediction System using Machine Learning 
+Bank receives many loan applications.Manually evaluating every application can be time consuming.
+A machine learning system can learn patterns from previous loan applications and predict whether a new applicant is likely to be approved
 🔹 Project Highlights:
 
 Data preprocessing and cleaning
