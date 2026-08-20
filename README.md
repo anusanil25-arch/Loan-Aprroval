@@ -140,6 +140,19 @@ New Applicant Prediction
    ↓
 Save Final Model
 
+ **Data Visualization**
+
+Data visualization was used to understand the patterns and relationships in the loan dataset.
+The project includes visualizations such as:
+
+**Loan Status Distribution** – shows the number of approved and rejected loans.
+**Applicant Income Distribution** – shows how applicant incomes are distributed.
+**Loan Amount Distribution** – shows the distribution of requested loan amounts.
+**Credit History vs Loan Status** – helps understand the relationship between credit history and loan approval.
+**Correlation Heatmap** – shows relationships between numerical features.
+
+These visualizations helped identify important patterns in the data and supported the feature selection and model-building process.
+
 **MODELS USED**
 Logistic Regression – A simple and interpretable classification model.
 
