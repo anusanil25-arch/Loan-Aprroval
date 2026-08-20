@@ -7,24 +7,26 @@ A machine learning system can learn patterns from previous loan applications and
 
 🔹 Project Highlights:
 
-Data preprocessing and cleaning
+*Data preprocessing and cleaning
 
-Handling missing values
+*Handling missing values
 
-Exploratory Data Analysis (EDA)
+*Exploratory Data Analysis (EDA)
 
-Feature encoding and transformation
+*Feature encoding and transformation
 
-Model building and training
+*Model building and training
 
-Performance evaluation and comparison
+*Performance evaluation and comparison
 
-Loan approval prediction based on applicant details
+*Loan approval prediction based on applicant details
 
 Tools & Technologies:
+
 Python, Google Colab, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 WORK FLOW:
+
 1.Data Collection
 2.Data Cleaning
 3.Data Analysis
